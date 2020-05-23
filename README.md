@@ -1,13 +1,13 @@
 # Chatbot_with_Rasa
 
-To Train: <br>
+<b>To Train:</b> <br>
 rasa train
 
-To run with verbose about Intents and Confidence:<br>
+<b>To run with verbose about Intents and Confidence:</b><br>
 rasa shell nlu
 
-To run:<br>
+<b>To run:</b><br>
 rasa shell
 
-To run Action Server:<br>
+<b>To run Action Server:</b><br>
 rasa run actions
